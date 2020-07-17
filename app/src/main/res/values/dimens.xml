@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hscore_textsize">20sp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="btn_text_size">30sp</dimen>
+</resources>
